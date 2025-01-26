@@ -1,1 +1,4 @@
-# daily-tracker2
+Daily Use Tracking App
+
+
+https://my-daily-use-tracker.netlify.app/
